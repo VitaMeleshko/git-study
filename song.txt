@@ -1,3 +1,5 @@
 my new file
 my new goal is automatization
-I have to stady java
+I have to study java
+First I should finished base traning
+After that I start studing Java
